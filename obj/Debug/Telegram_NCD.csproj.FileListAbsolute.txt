@@ -1,0 +1,15 @@
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\Telegram_NCD.exe.config
+E:\work\projects\Telegram_NCD\Telegram_NCD\obj\Debug\Telegram_NCD.csprojResolveAssemblyReference.cache
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\Telegram_NCD.exe
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\Telegram_NCD.pdb
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\EPPlus.dll
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\EPPlus.Interfaces.dll
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\EPPlus.System.Drawing.dll
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\Newtonsoft.Json.dll
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\Telegram.Bot.dll
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\EPPlus.xml
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\Newtonsoft.Json.xml
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\Telegram.Bot.xml
+E:\work\projects\Telegram_NCD\Telegram_NCD\obj\Debug\Telegram_NCD.exe
+E:\work\projects\Telegram_NCD\Telegram_NCD\obj\Debug\Telegram_NCD.pdb
+E:\work\projects\Telegram_NCD\Telegram_NCD\bin\Debug\NCD_Accounts.xlsx
